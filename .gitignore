@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+**/.vs/
+*.user
+*.suo
+
+# Arquivos gerados pelo .NET
+**/bin/
+**/obj/
+
+# Configuracoes locais e senhas
+**/appsettings.Development.json
+
+# Arquivos de sistema
+Thumbs.db
+.DS_Store
